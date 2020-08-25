@@ -1,4 +1,4 @@
-# Cybersecurity-Materials :- A repo with all Ethical Hacking, programming and security research writeups links.
+# Cybersecurity-Materials :- A Ethical Hacking, Programming and Security Research writeups place.
 This repo contains materials and will be updating weekly (This for hobby)
 
 
